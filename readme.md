@@ -73,13 +73,13 @@ pip install -r requirements.txt
 
 ### Key Observations
 
-* Cryptocurrencies are grouped into distinct clusters based on their market performance.
-* The dimensionality reduction via PCA effectively visualizes the clusters.
-* Insights reveal patterns among cryptocurrencies with similar characteristics.
+   - Cryptocurrencies are grouped into distinct clusters based on their market performance.
+   - The dimensionality reduction via PCA effectively visualizes the clusters.
+   - Insights reveal patterns among cryptocurrencies with similar characteristics.
 
 Visualizations:
-* K-Means Clustering: Scatter plots showing clusters of cryptocurrencies.
-* PCA Visualization: 2D representation of the clustered data post-PCA.
+   - K-Means Clustering: Scatter plots showing clusters of cryptocurrencies.
+   - PCA Visualization: 2D representation of the clustered data post-PCA.
 ---
 
 ## Author
