@@ -9,7 +9,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Results](#results)
-- [Author](#author)
 
 ---
 
@@ -81,10 +80,3 @@ Visualizations:
    - K-Means Clustering: Scatter plots showing clusters of cryptocurrencies.
    - PCA Visualization: 2D representation of the clustered data post-PCA.
 ---
-
-## Author
-
-**Kendall Burkett**  
-https://github.com/KendallBurkett?tab=repositories
- 
-kbz1987@icloud.com
